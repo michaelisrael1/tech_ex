@@ -1,0 +1,3 @@
+git checkout main         # make sure you're on main
+git pull origin main      # update your local main
+git checkout -b feature/repair-models
