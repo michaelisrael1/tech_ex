@@ -1,1 +1,72 @@
+{
+  "nissan_sentra_2013": {
+    "spark_plug_replacement": {
+      "tools": [
+        "3/8\" Ratchet wrench",
+        "6\" Extension bar",
+        "5/8\" Spark plug socket",
+        "Torque wrench (optional)",
+        "Dielectric grease (optional)"
+      ],
+      "parts": [
+        "4x NGK Iridium Spark Plugs (Part # 9029 or IFR5E11)",
+        "Anti-seize compound (optional)"
+      ],
+      "instructions": [
+        "Let the engine cool.",
+        "Open the hood and remove the engine cover (if present).",
+        "Disconnect the ignition coil connectors.",
+        "Remove each coil by unbolting it (10mm bolt).",
+        "Use the spark plug socket and extension to unscrew the old spark plugs.",
+        "Insert new plugs, hand-tighten, then torque to ~18–22 ft-lbs.",
+        "Reinstall coils, reconnect connectors, and replace cover."
+      ]
+    },
+    "brake_pads_replacement": {
+      "tools": [
+        "Jack + jack stands",
+        "Lug wrench or impact wrench",
+        "Ratchet + 14mm socket",
+        "C-clamp or brake caliper tool",
+        "Flathead screwdriver",
+        "Torque wrench (optional)"
+      ],
+      "parts": [
+        "Front Brake Pads Set (Bosch, Akebono, or OEM)",
+        "Brake grease"
+      ],
+      "instructions": [
+        "Loosen lug nuts on front wheels.",
+        "Jack up the car and place on jack stands.",
+        "Remove wheels.",
+        "Remove the 14mm caliper bolts and slide the caliper off.",
+        "Pull out old pads.",
+        "Compress caliper piston with C-clamp.",
+        "Apply brake grease to pads and pins.",
+        "Install new pads, re-mount caliper, reinstall wheels.",
+        "Torque lug nuts to ~80–90 ft-lbs.",
+        "Pump brake pedal before driving."
+      ]
+    },
+    "headlight_restoration": {
+      "tools": [
+        "Microfiber towels",
+        "Masking tape",
+        "Spray bottle with water",
+        "Drill (optional)"
+      ],
+      "parts": [
+        "Headlight Restoration Kit (3M, Meguiar’s, or Turtle Wax)"
+      ],
+      "instructions": [
+        "Wash headlights and dry.",
+        "Tape around headlights.",
+        "Wet-sand lenses (1000 → 2000 → 3000 grit).",
+        "Rinse between sanding steps.",
+        "Apply polish and buff.",
+        "Apply UV sealant or clear coat."
+      ]
+    }
+  }
+}
 
