@@ -1,1 +1,2 @@
-pytest\nflask
+pytest
+flask
