@@ -1,0 +1,6 @@
+<h1>Select Your Vehicle</h1>
+<ul>
+  {% for model in models %}
+    <li><a href="{% url 'select_task' model %}">{{ model }}</a></li>
+  {% endfor %}
+</ul>

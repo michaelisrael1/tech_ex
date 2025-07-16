@@ -1,0 +1,32 @@
+{
+  "nissan sentra 2013": {
+    "spark plug replacement": {
+      "tools": ["3/8\" Ratchet wrench", "6\" Extension bar", "5/8\" Spark plug socket", "Torque wrench", "Dielectric grease"],
+      "parts": ["4x NGK Iridium Spark Plugs (9029)", "Anti-seize compound"],
+      "instructions": [
+        "Let the engine cool.",
+        "Open the hood and remove the engine cover (if present).",
+        "Disconnect the ignition coil connectors.",
+        "Remove each coil by unbolting it (10mm bolt).",
+        "Use the spark plug socket and extension to unscrew the old spark plugs.",
+        "Gently insert the new plugs and torque to ~18–22 ft-lbs.",
+        "Reinstall the coils, reconnect connectors, and replace the cover."
+      ]
+    },
+    "brake pads replacement (front)": {
+      "tools": ["Jack + jack stands", "Lug wrench", "14mm socket", "C-clamp", "Flathead screwdriver", "Torque wrench"],
+      "parts": ["Front Brake Pads Set", "Brake grease"],
+      "instructions": [
+        "Loosen lug nuts.",
+        "Jack up the car and remove wheels.",
+        "Remove 14mm caliper bolts and slide caliper off.",
+        "Pull out old pads.",
+        "Compress caliper piston with C-clamp.",
+        "Grease new pads and slide pins.",
+        "Reinstall pads and caliper.",
+        "Reinstall wheels and torque to ~80–90 ft-lbs.",
+        "Pump brake pedal before driving."
+      ]
+    }
+  }
+}
