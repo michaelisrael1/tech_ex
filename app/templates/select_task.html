@@ -1,0 +1,6 @@
+<h1>Available Repairs for {{ car }}</h1>
+<ul>
+  {% for task in tasks %}
+    <li><a href="{% url 'repair_detail' car task %}">{{ task }}</a></li>
+  {% endfor %}
+</ul>

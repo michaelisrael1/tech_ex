@@ -1,0 +1,12 @@
+<h1>{{ task|title }} for {{ car }}</h1>
+
+<h2>🛠️ Tools:</h2>
+<ul>{% for item in tools %}<li>{{ item }}</li>{% endfor %}</ul>
+
+<h2>🔩 Parts:</h2>
+<ul>{% for item in parts %}<li>{{ item }}</li>{% endfor %}</ul>
+
+<h2>📋 Instructions:</h2>
+<ol>{% for step in instructions %}<li>{{ step }}</li>{% endfor %}</ol>
+
+<a href="{% url 'select_task' car %}">⬅ Back to tasks</a>
